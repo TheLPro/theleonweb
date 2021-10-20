@@ -1,0 +1,29 @@
+header .title {
+    font: 100pt Helvetica, Arial;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 75pt;
+    padding-top:  75pt;
+    margin-top: .01pt;
+}
+section.personal-life {
+    background-color: white;
+
+}
+section.personal-life h1 {
+    font: 50px Arial, Helvetica;
+    text-align: center;
+    margin-bottom: 0.01pt;
+}
+section.personal-life h2 {
+    font: 35px Helvetica, Arial;
+    text-align: left;
+}
+.hobbies {
+    background-color: white;
+}
+section.personal-life {
+    background-color: rgb(210, 210, 210);
+    border-radius: 15px;
+    padding: 15px 15px 15px;
+}
